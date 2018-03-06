@@ -1,0 +1,10 @@
+header {
+  text-align: centre;
+  background: url('http://dash.ga.co/assets/jeff-bg.png');
+  background-size: cover;
+  color: white;
+}
+h1 {
+  color: purple;
+  font-size: 70px;
+}
