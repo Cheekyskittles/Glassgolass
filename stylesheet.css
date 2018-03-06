@@ -3,8 +3,15 @@ header {
   background: url('https://image.ibb.co/jMhQLn/Mackintosh.jpg');
   background-size: cover;
   color: white;
+  height: 320;
+  max-width: cover;
+  padding: 10px;
 }
 h1 {
   color: purple;
   font-size: 70px;
+}
+li {
+  padding: 5px;
+  display: inline;
 }
